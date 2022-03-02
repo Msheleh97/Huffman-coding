@@ -1,8 +1,3 @@
-#ifndef DECODE_H
-#define DECODE_H
-#include "frequency_analysis.h"
-#include "trie.h"
-
 /**
  * @defgroup DECODE
  *
@@ -15,6 +10,12 @@
  *  @ auother:  Mohammad Mshaleh
  *  @ sine: 06-03-2020
  **/
+#ifndef DECODE_H
+#define DECODE_H
+#include "frequency_analysis.h"
+#include "trie.h"
+
+
 
  /**
   * @brief        This function is the responsable to do frequency analysis
