@@ -1,5 +1,3 @@
-#ifndef FREQUENCY_ANALYSIS
-#define FREQUENCY_ANALYSIS
 /**
  * @defgroup FREQUENCY_ANALYSIS_H
  *
@@ -13,6 +11,9 @@
  *
  * @{
  */
+#ifndef FREQUENCY_ANALYSIS
+#define FREQUENCY_ANALYSIS
+
 
 // Define all the 265 sign in a variable.
 #define MAX 256
