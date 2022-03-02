@@ -1,5 +1,3 @@
-#ifndef ENCODE_H
-#define ENCODE_H
 /**
  * @defgroup ENCODE
  *
@@ -11,6 +9,9 @@
  *  @ auother:  Mohammad Mshaleh
  *  @ sine: 06-03-2021
  **/
+#ifndef ENCODE_H
+#define ENCODE_H
+
 
  /**
   * @brief             This function is responsable to do frequency analysis
