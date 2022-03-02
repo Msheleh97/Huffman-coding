@@ -1,8 +1,3 @@
-#ifndef TRIE_H
-#define TIRE_H
-#include "pqueue.h"
-#include "list.h"
-#include "frequency_analysis.h"
 /**
  * @defgroup TRIE_H
  *
@@ -14,6 +9,12 @@
  *  in this way this modul creat a trie.
  *
  **/
+#ifndef TRIE_H
+#define TIRE_H
+#include "pqueue.h"
+#include "list.h"
+#include "frequency_analysis.h"
+
 
 
 /* a struct of what every node contains*/
